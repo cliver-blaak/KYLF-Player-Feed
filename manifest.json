@@ -1,5 +1,11 @@
 {
   "device": "KW-TEST-001",
-  "version": 1,
-  "playlist": []
+  "version": 2,
+  "playlist": [
+    {
+      "id": "cloud-test-001",
+      "file": "01-cloud-test.mp4",
+      "url": "https://raw.githubusercontent.com/cliver-blaak/KYLF-Player-Feed/main/01-cloud-test.mp4"
+    }
+  ]
 }
